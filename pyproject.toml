@@ -1,0 +1,13 @@
+[project]
+name = "case-study"
+version = "0.1.0"
+description = "Vale Bio case study"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "matplotlib==3.11.1",
+    "numpy==2.5.2",
+    "pandas==3.0.5",
+    "rdkit==2026.3.5",
+    "scipy==1.18.0",
+]
